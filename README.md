@@ -6,8 +6,9 @@
 
 
 <div class="alert alert-block alert-info">
-    <img src="https://www.uerj.br/wp-content/uploads/2019/07/logo-70anos-site.svg" alt="Trulli" width="290" align="left">
+    <img src="Uerj_RGB_WEB_cor.svg" alt="Trulli" width="200" align="left">
     <center style="width: 80%;">
+    <br>
         <div> <b>Authors:</b></div>
         <div>Luís Fernando Corrêa Monteiro</div>
         <div>Cleiton Magalhães Freitas</div>
@@ -21,11 +22,11 @@
 
 <br>
 <br>
+<br>
+<br>
 
 
-Repository containing the codes used in the article "Improvements on E-PLL to Mitigate Transient Low-Frequency Oscillations" published in the IEEE Transaction on Latin America.
-
-The repository contain the following folders:
+Repository containing the codes used in the article "Improvements on E-PLL to Mitigate Transient Low-Frequency Oscillations" published in the IEEE Transaction on Latin America. The repository contain the following folders:
 
 
 ## Octave Folder
