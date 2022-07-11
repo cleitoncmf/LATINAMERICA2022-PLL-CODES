@@ -27,11 +27,6 @@ Repository containing the codes used in the article "Improvements on E-PLL to Mi
 
 The repository contain the following folders:
 
-<!-- toc -->
-[toc]
-
-
-
 
 ## Octave Folder
 
